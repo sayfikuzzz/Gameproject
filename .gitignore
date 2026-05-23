@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+*.iml
+
+# Assets placeholder
+assets/music/placeholder.txt
+
+# Leaderboard data
+*.json
+
+# OS
+.DS_Store
+Thumbs.db
